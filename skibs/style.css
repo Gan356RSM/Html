@@ -1,0 +1,11 @@
+.dash_border {
+    border: 3px dashed green;
+    padding: 10px;
+}
+.solid_border {
+    border: 3px solid red;
+    padding: 10px;
+}
+body {
+    background-color: azure;
+}
